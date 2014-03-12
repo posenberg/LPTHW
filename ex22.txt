@@ -1,0 +1,37 @@
+print  print prints a line
+#  - hashtag to comment; also known as an octothorpe
++ plus 
+< less than
+> greator than
+- minus
+\ backslash
+/ forward slash - for division
+% percent sign  -  1) can be called the format activator, 2) or modulo if you want to find the remainder value
+<= less than equal
+>= greator than equal
+, comma - it generally seperates variables, strings on your output,
+
+# -- coding: utf-8 -- 
+                      You use this when you need to be able to use python utf characters in other countries
+
+\n newline in a line 
+\\ backslash character in a string
+\' apostrophe 
+\t tab within a line
+raw_input()  - input command assigns user input to a variable. variable must be declared to the left of function
+raw_input("Question or Prompt")
+
+from sys import argv 	imports modules or libraries with their own 							functions and commands. In this case, the sys 
+						module/library has the argument variable (argv) that needs to be used
+
+""" Called the "multiline string formatter" 
+You can format your strings a lot more freely
+with """" """" or ''' ''' 
+
+They are also called "documentation comments"
+"""
+
+def ___ ():  defines a funtion that takes any number of arguments within the parthesis
+*args  -- any number of arguments in a listed order can be used in def ___ (*args):
+
+
